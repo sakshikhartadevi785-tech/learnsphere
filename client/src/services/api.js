@@ -1,4 +1,8 @@
-const API_BASE = (import.meta.env.VITE_API_URL || '/api').replace(/\/$/, '');
+const rawApiBase = import.meta.env.VITE_API_URL?.trim();
+const normalizedBase = rawApiBase ? rawApiBase.replace(/\/$/, '') : '';
+const API_BASE = normalizedBase
+  ? (normalizedBase.endsWith('/api') ? normalizedBase : `${normalizedBase}/api`)
+  : '/api';
 
 export class ApiClientError extends Error {
   constructor(message, status, details) {

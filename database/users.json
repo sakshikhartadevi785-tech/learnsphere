@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "66a500000000000000000001",
+    "firstName": "LearnSphere",
+    "lastName": "Administrator",
+    "email": "admin@learnsphere.test",
+    "passwordHash": "scrypt:9cdd1cd2430747d23cfe546c9d3bc998:dccc7a82c138d378bf52a90f9bceb0974af6d4b702bcff8e547ee07e0b6b084daaabe6d5043e1fc575f6604fc45825892911f9e8fe66020e795656caa73720be",
+    "phone": "+44 020 0000 1245",
+    "role": "admin",
+    "isActive": true
+  },
+  {
+    "_id": "66a500000000000000000002",
+    "firstName": "Demo",
+    "lastName": "Student",
+    "email": "student@learnsphere.test",
+    "passwordHash": "scrypt:3d851cf50136a85576057c1a03a6d365:3b17049346471640f9b2f8062131d348581c457a580dc90ee1140b661c232b54287f738f3079b6a9a8a56b69ccaf1d20b4fa170c9278a65e19fb8858daffd1a2",
+    "phone": "+44 7700 900123",
+    "role": "student",
+    "isActive": true
+  },
+  {
+    "_id": "66a500000000000000000003",
+    "firstName": "Aisha",
+    "lastName": "Khan",
+    "email": "aisha.khan@learnsphere.test",
+    "passwordHash": "scrypt:3d5bc7a8ad2fbe84618287481ca64f3b:e0eb00639052ef475e9f9279339fea17e160351c5159756b97552af87d734c37e6536a5681e2b3954c7cd48ec51a60e145e0b4629c11748d6c7b17e1a24ae873",
+    "phone": "+44 7700 900203",
+    "role": "student",
+    "isActive": true
+  },
+  {
+    "_id": "66a500000000000000000004",
+    "firstName": "Omar",
+    "lastName": "Hassan",
+    "email": "omar.hassan@learnsphere.test",
+    "passwordHash": "scrypt:933ae22e98d0c769d8cd3e1450ddca20:f2afa5fe8e1495a4e17b6c418dacb926e73ea992df9d50e457aad65ff92e58c439f7337cdca29e3ccc49a58ad8e5b9df5f56dec905dc728d5dbc204cd5316e00",
+    "phone": "+44 7700 900204",
+    "role": "student",
+    "isActive": true
+  },
+  {
+    "_id": "66a500000000000000000005",
+    "firstName": "Sophia",
+    "lastName": "Williams",
+    "email": "sophia.williams@learnsphere.test",
+    "passwordHash": "scrypt:4e9e546353b746bd3d9ff452764048db:addfa3c02a6971d249828b4cb4765b10bb973bdabbfc50c2dea9d25557c002c75e85d1b2fcf6138c94006f0c6af00dd07ec1af5fe24b51fbbafbcb2d81a64a9a",
+    "phone": "+44 7700 900205",
+    "role": "student",
+    "isActive": true
+  },
+  {
+    "_id": "66a500000000000000000006",
+    "firstName": "Daniel",
+    "lastName": "Brown",
+    "email": "daniel.brown@learnsphere.test",
+    "passwordHash": "scrypt:45a5306299690ba1bbaeee7061f65596:026000d393fd89c7113949cd3dde194ce071971232d4f43c08743493e117ff0fe90745f44b66e24636daebac97200b56240d70d814033ed28d6e11fe3adf88c0",
+    "phone": "+44 7700 900206",
+    "role": "student",
+    "isActive": true
+  },
+  {
+    "_id": "66a500000000000000000007",
+    "firstName": "Priya",
+    "lastName": "Patel",
+    "email": "priya.patel@learnsphere.test",
+    "passwordHash": "scrypt:b0f70b73b9707af9aba38fd7312c2eb0:42134c3d7fa938975aec15d29336e5e4f74b7265aa3ee35bfc1883b5cba96f95c214a75de8b67eb9382b42729723ecb107121a1de8b441488ca3597b06a5e28f",
+    "phone": "+44 7700 900207",
+    "role": "student",
+    "isActive": true
+  },
+  {
+    "_id": "66a500000000000000000008",
+    "firstName": "Liam",
+    "lastName": "Jones",
+    "email": "liam.jones@learnsphere.test",
+    "passwordHash": "scrypt:f1557b44180f891dceb5ee8dd0767dce:a7100b1d3a45f401d8b7229d0f9c50ebbc20a0acdec60668d673392dfd7e5e79cb54c7ce9d12612d3ba6eb9f4fd5c339f4a140ccb593e6d90a4fe14d16c092bc",
+    "phone": "+44 7700 900208",
+    "role": "student",
+    "isActive": true
+  },
+  {
+    "_id": "66a500000000000000000009",
+    "firstName": "Noah",
+    "lastName": "Taylor",
+    "email": "noah.taylor@learnsphere.test",
+    "passwordHash": "scrypt:33e8c70778e0367b6d9c1664701337cc:3b31260c73867df72558b50fee04c615d2ba2861d7d4a09f449eab7eb66b107b6b06545ddd2f70cac3379bf93fdddceb25576b0b962feaf0bbdb53028079504d",
+    "phone": "+44 7700 900209",
+    "role": "student",
+    "isActive": true
+  }
+]

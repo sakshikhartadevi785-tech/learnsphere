@@ -1,0 +1,39 @@
+Image Credits - LearnSphere Online Course Registration Website
+
+All website images are saved locally as PNG files inside the images folder. The HTML pages use local image paths only, not remote image URLs. Source images were downloaded from public Wikimedia Commons file pages and converted/cropped into PNG assets for this client-side project.
+
+1. Student using Laptop.jpg
+Source: https://commons.wikimedia.org/wiki/File:Student_using_Laptop.jpg
+Author: techsrc2371 via Flickr
+License: Creative Commons Attribution 2.0 Generic (CC BY 2.0)
+Used for: student-laptop.png, course-online.png
+
+2. CompSci class2GA (23928923468).jpg
+Source: https://commons.wikimedia.org/wiki/File:CompSci_class2GA_(23928923468).jpg
+Author: Glenn Asakawa / University of Colorado, via cuboulder Flickr
+License: Creative Commons CC0 1.0 Universal Public Domain Dedication
+Used for: computer-science.png, course-tech.png
+
+3. Ccc yenching college, lecture room.jpg
+Source: https://commons.wikimedia.org/wiki/File:Ccc_yenching_college,_lecture_room.jpg
+Author: cccyc / Test001
+License: Creative Commons Attribution-Share Alike 3.0 Unported (CC BY-SA 3.0)
+Used for: lecture-hall.png, course-evening.png
+
+4. Law School Classes-24 (7116446131).jpg
+Source: https://commons.wikimedia.org/wiki/File:Law_School_Classes-24_(7116446131).jpg
+Author: Tulane Public Relations via Flickr
+License: Creative Commons Attribution 2.0 Generic (CC BY 2.0)
+Used for: hero-campus.png, course-management.png
+
+5. Wikipedia Education Program Workshop- American University in Iraq- Sullaimaniya 2016.jpg
+Source: https://commons.wikimedia.org/wiki/File:Wikipedia_Education_Program_Workshop-_American_University_in_Iraq-_Sullaimaniya_2016.jpg
+Author: Sarmad Yaseen
+License: Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0)
+Used for: business-workshop.png, course-business.png
+
+6. Imperial College London Women in Science school Wikipedia training 34.jpg
+Source: https://commons.wikimedia.org/wiki/File:Imperial_College_London_Women_in_Science_school_Wikipedia_training_34.jpg
+Author: Jwslubbock / John Lubbock
+License: Creative Commons Attribution-Share Alike 4.0 International (CC BY-SA 4.0)
+Used for: instructor-training.png, course-design.png

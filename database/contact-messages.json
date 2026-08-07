@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "66a700000000000000000001",
+    "name": "Sample Enquirer",
+    "email": "enquirer@example.com",
+    "subject": "Question about evening study",
+    "message": "Please confirm whether the Evening Professional Certificate includes access to recorded sessions for students who occasionally work late.",
+    "status": "new",
+    "createdAt": "2026-08-01T09:15:00.000Z",
+    "updatedAt": "2026-08-01T09:15:00.000Z"
+  }
+]

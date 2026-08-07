@@ -1,0 +1,38 @@
+{
+  "name": "learnsphere-server",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Server-side API for the LearnSphere online course registration system.",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "seed": "node seed/seed.js",
+    "test": "cross-env NODE_ENV=test node --test --test-concurrency=1 test/*.test.js",
+    "test:syntax": "node --check src/app.js && node --check src/server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "compression": "^1.8.1",
+    "connect-mongo": "^5.1.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.0.1",
+    "express-session": "^1.18.2",
+    "express-validator": "^7.2.1",
+    "helmet": "^8.1.0",
+    "mongoose": "^8.18.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "mongodb-memory-server": "^10.2.0",
+    "nodemon": "^3.1.10",
+    "supertest": "^7.1.4"
+  }
+}

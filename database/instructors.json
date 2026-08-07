@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "66a200000000000000000001",
+    "name": "Dr. Amina Clarke",
+    "title": "Lead Lecturer in Web Technologies",
+    "biography": "Amina combines university teaching with applied web development experience. Her classes use practical demonstrations, code reviews and accessible project-based learning.",
+    "specialisation": "Web Development",
+    "email": "amina.clarke@learnsphere.example",
+    "image": "/images/instructor-training.png",
+    "isActive": true
+  },
+  {
+    "_id": "66a200000000000000000002",
+    "name": "Mark Sullivan",
+    "title": "Business Analytics Trainer",
+    "biography": "Mark supports learners in turning raw information into clear dashboards, reports and business recommendations using realistic professional scenarios.",
+    "specialisation": "Business Analytics",
+    "email": "mark.sullivan@learnsphere.example",
+    "image": "/images/business-workshop.png",
+    "isActive": true
+  },
+  {
+    "_id": "66a200000000000000000003",
+    "name": "Sarah Mitchell",
+    "title": "Project Delivery Mentor",
+    "biography": "Sarah teaches structured planning, risk management and team coordination with an emphasis on practical delivery controls and reflective learning.",
+    "specialisation": "Project Management",
+    "email": "sarah.mitchell@learnsphere.example",
+    "image": "/images/lecture-hall.png",
+    "isActive": true
+  },
+  {
+    "_id": "66a200000000000000000004",
+    "name": "Elena Rossi",
+    "title": "UX and Interface Design Tutor",
+    "biography": "Elena guides learners through research, user journeys, wireframes, prototypes and usability testing with regular critique and portfolio feedback.",
+    "specialisation": "UX/UI Design",
+    "email": "elena.rossi@learnsphere.example",
+    "image": "/images/student-laptop.png",
+    "isActive": true
+  }
+]

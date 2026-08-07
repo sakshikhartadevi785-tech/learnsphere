@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "66a400000000000000000001",
+    "course": "66a300000000000000000001",
+    "mode": "On campus",
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "startDate": "2026-07-07T00:00:00.000Z",
+    "location": "Technology Centre, Room T204",
+    "isActive": true
+  },
+  {
+    "_id": "66a400000000000000000002",
+    "course": "66a300000000000000000002",
+    "mode": "Online",
+    "days": [
+      "Tuesday"
+    ],
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "startDate": "2026-07-14T00:00:00.000Z",
+    "location": "LearnSphere Live Classroom",
+    "isActive": true
+  },
+  {
+    "_id": "66a400000000000000000003",
+    "course": "66a300000000000000000003",
+    "mode": "Weekend",
+    "days": [
+      "Saturday"
+    ],
+    "startTime": "11:00",
+    "endTime": "14:00",
+    "startDate": "2026-07-18T00:00:00.000Z",
+    "location": "Design Studio, Room D110",
+    "isActive": true
+  },
+  {
+    "_id": "66a400000000000000000004",
+    "course": "66a300000000000000000004",
+    "mode": "On campus",
+    "days": [
+      "Thursday"
+    ],
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "startDate": "2026-07-23T00:00:00.000Z",
+    "location": "Management Building, Room M302",
+    "isActive": true
+  },
+  {
+    "_id": "66a400000000000000000005",
+    "course": "66a300000000000000000005",
+    "mode": "Online",
+    "days": [
+      "Friday"
+    ],
+    "startTime": "17:30",
+    "endTime": "19:00",
+    "startDate": "2026-07-25T00:00:00.000Z",
+    "location": "LearnSphere Live Classroom",
+    "isActive": true
+  },
+  {
+    "_id": "66a400000000000000000006",
+    "course": "66a300000000000000000006",
+    "mode": "On campus",
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "startTime": "18:30",
+    "endTime": "21:00",
+    "startDate": "2026-07-15T00:00:00.000Z",
+    "location": "Professional Learning Centre, Room P201",
+    "isActive": true
+  }
+]

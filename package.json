@@ -1,0 +1,16 @@
+{
+  "name": "learnsphere-course-registration-d2",
+  "version": "2.0.0",
+  "private": true,
+  "workspaces": ["client", "server"],
+  "scripts": {
+    "install:all": "npm install",
+    "dev:client": "npm --workspace client run dev",
+    "dev:server": "npm --workspace server run dev",
+    "build": "npm --workspace client run build",
+    "seed": "npm --workspace server run seed",
+    "start": "npm --workspace server run start",
+    "test": "npm --workspace server run test"
+  },
+  "engines": { "node": ">=20" }
+}

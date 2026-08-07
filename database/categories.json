@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "66a100000000000000000001",
+    "name": "Technology",
+    "slug": "technology",
+    "description": "Build practical digital skills in web development, online productivity and modern technology workflows.",
+    "image": "/images/course-tech.png",
+    "isActive": true
+  },
+  {
+    "_id": "66a100000000000000000002",
+    "name": "Business",
+    "slug": "business",
+    "description": "Develop analytical, reporting and professional business capabilities for evidence-based decisions.",
+    "image": "/images/course-business.png",
+    "isActive": true
+  },
+  {
+    "_id": "66a100000000000000000003",
+    "name": "Design",
+    "slug": "design",
+    "description": "Learn user-centred interface design, visual communication, wireframing and prototyping methods.",
+    "image": "/images/course-design.png",
+    "isActive": true
+  },
+  {
+    "_id": "66a100000000000000000004",
+    "name": "Management",
+    "slug": "management",
+    "description": "Strengthen planning, risk control, teamwork and delivery skills for professional projects.",
+    "image": "/images/course-management.png",
+    "isActive": true
+  }
+]
